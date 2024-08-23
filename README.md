@@ -10,4 +10,3 @@ https://github.com/Sathwik828/23CSBTB29/blob/main/visualization.ipynb
 
 https://github.com/Sathwik828/23CSBTB29/blob/main/part3.ipynb
 
-https://github.com/Sathwik828/23CSBTB29/blob/main/aiml%20lab4(23-08-2024).
