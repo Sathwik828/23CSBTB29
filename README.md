@@ -9,3 +9,5 @@ https://github.com/Sathwik828/23CSBTB29/blob/main/Array(1d%2C2d%2C3d).ipynb
 https://github.com/Sathwik828/23CSBTB29/blob/main/visualization.ipynb
 
 https://github.com/Sathwik828/23CSBTB29/blob/main/part3.ipynb
+
+https://github.com/Sathwik828/23CSBTB29/blob/main/aiml%20lab4(23-08-2024).
