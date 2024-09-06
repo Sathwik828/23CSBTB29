@@ -13,3 +13,5 @@ https://github.com/Sathwik828/23CSBTB29/blob/main/part3.ipynb
 https://github.com/Sathwik828/23CSBTB29/blob/main/aiml%20lab-4(23-08-2024).ipynb
 
 https://github.com/Sathwik828/23CSBTB29/blob/main/Lab%203%20.ipynb
+
+https://github.com/Sathwik828/23CSBTB29/blob/main/Assignment4.ipynb
